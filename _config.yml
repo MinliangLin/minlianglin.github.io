@@ -1,7 +1,6 @@
 title: Think More
-author: unknown
+author: Unknown
 theme: minima
-
 plugins:
 - jekyll-feed
 - jekyll-seo-tag
